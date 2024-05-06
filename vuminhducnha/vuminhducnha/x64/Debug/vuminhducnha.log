@@ -1,0 +1,9 @@
+﻿  vuduc.cpp
+D:\vuminhduc\vuminhducnha\vuminhducnha\vuduc.cpp(10,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\vuminhduc\vuminhducnha\vuminhducnha\vuduc.cpp(10,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\vuminhduc\vuminhducnha\vuminhducnha\vuduc.cpp(148,43): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\vuminhduc\vuminhducnha\vuminhducnha\vuduc.cpp(148,43): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+D:\vuminhduc\vuminhducnha\vuminhducnha\vuduc.cpp(148,43): warning C4566: character represented by universal-character-name '\u1EBD' cannot be represented in the current code page (1252)
+D:\vuminhduc\vuminhducnha\vuminhducnha\vuduc.cpp(148,43): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\vuminhduc\vuminhducnha\vuminhducnha\vuduc.cpp(148,43): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+  vuminhducnha.vcxproj -> D:\vuminhduc\vuminhducnha\x64\Debug\vuminhducnha.exe
